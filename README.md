@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vominhhuy71
-- 👀 I’m interested in creating desktop and mobile application.
+- 👀 I’m interested in creating desktop and mobile applications.
 - 🌱 I’m currently learning WPF and React Native.
 - 📫 You can reach me through my LinkedIn: https://www.linkedin.com/in/minh-huy-vo/
 
