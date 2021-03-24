@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vominhhuy71
-- 👀 I’m interested in learning experimenting new technologies.
+- 👀 I’m interested in learning and experimenting new technologies.
 - 🌱 I’m currently learning WPF and React Native.
 - 📫 You can reach me through my LinkedIn: https://www.linkedin.com/in/minh-huy-vo/
 
